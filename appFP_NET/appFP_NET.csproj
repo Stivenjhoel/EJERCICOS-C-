@@ -1,0 +1,70 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Update="condicionales\frm01.cs" />
+    <Compile Update="condicionales\frm10.cs" />
+    <Compile Update="condicionales\frm09.cs" />
+    <Compile Update="condicionales\frm08.cs" />
+    <Compile Update="condicionales\frm07.cs" />
+    <Compile Update="condicionales\frm06.cs" />
+    <Compile Update="condicionales\frm04.cs" />
+    <Compile Update="condicionales\frm03.cs" />
+    <Compile Update="condicionales\frm20.cs" />
+    <Compile Update="condicionales\frm12.cs" />
+    <Compile Update="condicionales\frm19.cs" />
+    <Compile Update="condicionales\frm18.cs" />
+    <Compile Update="condicionales\frm17.cs" />
+    <Compile Update="condicionales\frm16.cs" />
+    <Compile Update="condicionales\frm15.cs" />
+    <Compile Update="condicionales\frm14.cs" />
+    <Compile Update="condicionales\frm13.cs" />
+    <Compile Update="condicionales\frm30.cs" />
+    <Compile Update="condicionales\frm29.cs" />
+    <Compile Update="condicionales\frm28.cs" />
+    <Compile Update="condicionales\frm27.cs" />
+    <Compile Update="condicionales\frm26.cs" />
+    <Compile Update="condicionales\frm25.cs" />
+    <Compile Update="condicionales\frm24.cs" />
+    <Compile Update="condicionales\frm23.cs" />
+    <Compile Update="condicionales\frm22.cs" />
+    <Compile Update="recursividad\frm10.cs" />
+    <Compile Update="recursividad\frm09.cs" />
+    <Compile Update="recursividad\frm08.cs" />
+    <Compile Update="recursividad\frm07.cs" />
+    <Compile Update="recursividad\frm06.cs" />
+    <Compile Update="recursividad\frm05.cs" />
+    <Compile Update="recursividad\frm04.cs" />
+    <Compile Update="recursividad\frm03.cs" />
+    <Compile Update="recursividad\frm02.cs" />
+    <Compile Update="repetitivos\frm10.cs" />
+    <Compile Update="repetitivos\frm09.cs" />
+    <Compile Update="repetitivos\frm08.cs" />
+    <Compile Update="repetitivos\frm07.cs" />
+    <Compile Update="repetitivos\frm06.cs" />
+    <Compile Update="repetitivos\frm05.cs" />
+    <Compile Update="repetitivos\frm04.cs" />
+    <Compile Update="repetitivos\frm03.cs" />
+    <Compile Update="repetitivos\frm02.cs" />
+    <Compile Update="secuenciales\frm15.cs" />
+    <Compile Update="secuenciales\frm14.cs" />
+    <Compile Update="secuenciales\frm13.cs" />
+    <Compile Update="secuenciales\frm12.cs" />
+    <Compile Update="secuenciales\frm11.cs" />
+    <Compile Update="secuenciales\frm10.cs" />
+    <Compile Update="secuenciales\frm09.cs" />
+    <Compile Update="secuenciales\frm08.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="secuenciales\frm06.cs" />
+    <Compile Update="secuenciales\frm05.cs" />
+  </ItemGroup>
+
+</Project>
